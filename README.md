@@ -12,4 +12,4 @@ The challenge is to build out this order summary card component and get it looki
 
 
 
-### Have a nice day! 😊
+Have a nice day! 😊
